@@ -18,6 +18,7 @@ Live Demo: https://ycmsoft.github.io/cg/src/asgn1.html
 # Notes to Grader:
 Awesomeness: Added an opacity slider for transparent paint that can be layered like real paint. 
 Resources used: 
+
 I tried out Cursor for the first time, I wasn't really happy with it but I guess I have a lot to learn.
 I didn't like how it went straight to making code changes, I prefer the conversational style 
 of ChatGPT. I need to learn more about the review/undo because it kept getting ahead of me.

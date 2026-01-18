@@ -17,6 +17,7 @@ Live Demo: https://ycmsoft.github.io/cg/src/asgn1.html
 - `README.md` - This readme.
 # Notes to Grader:
 Awesomeness: Added an opacity slider for transparent paint that can be layered like real paint. 
+
 Resources used: 
 
 I tried out Cursor for the first time, I wasn't really happy with it but I guess I have a lot to learn.

@@ -15,5 +15,6 @@ Live Demo: https://ycmsoft.github.io/cg/src/asgn1.html
 - 'README.md' - This readme.
 # Notes to Grader:
 Awesomeness: Added an opacity slider for transparent paint that can be layered like real paint. 
+
 Resources Used:
 ChatGPT helped with

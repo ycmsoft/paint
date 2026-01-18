@@ -13,7 +13,8 @@ Live Demo: https://ycmsoft.github.io/paint/src/asgn1.html
 - `src/Circle.js` - Circle shape class.
 - `lib/cuon-utils.js` - Shader utilities
 - `lib/webgl-debug.js` - WebGL debugging utilities
-- `lib/webgl-utils.js` - WebGL utilities 
+- `lib/webgl-utils.js` - WebGL utilities
+- `lib/myDrawing.JPEG` - Picture of my drawing.
 - `README.md` - This readme.
 # Notes to Grader:
 Awesomeness: Added an opacity slider for transparent paint that can be layered like real paint. 

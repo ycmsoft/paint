@@ -2,7 +2,7 @@
 Name: Alexander Bateman  
 Email: arbatema@ucsc.edu  
 
-Live Demo: https://ycmsoft.github.io/cg/src/asgn1.html  
+Live Demo: https://ycmsoft.github.io/paint/src/asgn1.html
 
 # Files:
 - `index.html` - Root `index.html` redirects to `src/asgn1.html` for GitHub Pages.

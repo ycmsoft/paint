@@ -3,9 +3,8 @@
 // arbatema@ucsc.edu
 // Notes to Grader: 
 // Awesomeness: Added an opacity slider for transparent paint that can be layered like real paint. 
-// Resources used: None (on this file)
-
-
+// Resources used: 
+// I was missing new Float32Array(vertices) in the gl.bufferData line and asked ChatGPT, told me to add that and it worked.  (I had just vertices before)
 
 // Circle class
 class Circle{

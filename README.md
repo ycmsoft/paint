@@ -34,3 +34,4 @@ gl.enable(gl.BLEND); and gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA);
 
 I was missing new Float32Array(vertices) in the gl.bufferData line of Circle.js and asked ChatGPT, told me to add that and it started working. (I had just vertices before)
 
+At ChatGPTs suggestion, I cleared shapesList in drawPicture() so that it clears the canvas before it populates it with the hard coded triangles. 

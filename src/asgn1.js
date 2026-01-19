@@ -17,6 +17,7 @@
 // ChatGPT also helped me identify the WebGL alpha blending setup needed for the opacity slider with
 // gl.enable(gl.BLEND); and gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA); 
 
+// At ChatGPTs suggestion, I cleared shapesList in drawPicture() so that it clears the canvas before it populates it with the hard coded triangles. 
 
 
 let canvas = null;

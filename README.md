@@ -32,3 +32,5 @@ which just draws a rectangle with two triangles, I used it to make the initals e
 ChatGPT also helped me identify the WebGL alpha blending setup needed for the opacity slider with
 gl.enable(gl.BLEND); and gl.blendFunc(gl.SRC_ALPHA, gl.ONE_MINUS_SRC_ALPHA); 
 
+I was missing new Float32Array(vertices) in the gl.bufferData line of Circle.js and asked ChatGPT, told me to add that and it started working. (I had just vertices before)
+
